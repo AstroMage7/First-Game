@@ -150,3 +150,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Ouch-shield]: https://img.shields.io/badge/Ouch!-tool-blue?label=Ouch!
 [Ouch-url]: https://github.com/ouch-org/ouch
 [time-screenshot]: https://cloud-l88kldf50-hack-club-bot.vercel.app/0image.png
+
+<!-- Credits -->
+The cookie image was created by an anonymous user from this website: https://www.pixilart.com/art/pixel-cookie-16-bit-67a5851268e95c0  
+
+The background image used in the game was created "CraftPix - Game Assets" from the website: https://free-game-assets.itch.io/ocean-and-clouds-free-pixel-art-backgrounds
+
+
